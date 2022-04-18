@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm Brycen, an East Midlands based education researcher turned aspiring full-stack developer through School of Code cohort 12 
+Hi I'm Brycen, an East Midlands based education researcher turned aspiring full-stack developer through School of Code
 as I work towards my dream goal of working in EdTech!
 
 As part of my journey with School of Code (starting April 25th) I am documenting my experience learning full-stack content in a directed environment.
