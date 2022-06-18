@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="https://github.com/brycenbb/brycenbb/blob/main/github.jpeg"/>
 Hi I'm Brycen, an East Midlands based education researcher turned aspiring full-stack developer through School of Code
 as I work towards my dream goal of working in EdTech!
 
