@@ -23,4 +23,7 @@ To prepare for this, I have been self teaching using The Odin Project as a base 
 I am commiting to #100DaysOfCode (working days for me 😄) as part of documenting my experience! I will simply move down each idea and any accompanying
 thoughts as I move through this challenge and School of Code:
 
-  Apr 18th - 🌱 I’m currently learning how to work with APIs for the first time!
+  - ⚡ Fun fact: Prior to joining School of Code I was following The Odin Project curriculum to learn HTML, CSS, and Javascript. My last completed project of their curriculum was recreating BattleShip. My journey with School of Code has led me through working with REST APIs, creating backend servers and databases, popular libraries like React, and most recently frameworks with NextJS. 
+  
+  - 🔭 I’m currently working on a React e-commerce app - An amazon clone! I plan on re-creating as much of the functionality of the original site as possible. This project will incorporate styled components, user authentication and authorization, and potentially refactored to incorporate NextJS too. 
+
