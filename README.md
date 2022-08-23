@@ -31,8 +31,8 @@ thoughts as I move through this challenge and School of Code:
 
 ![Profile views](https://gpvc.arturio.dev/lalicia)
 
-![](https://github-readme-stats.vercel.app/api?username=lalicia&theme=tokyonight&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=brycenbb&theme=tokyonight&show_icons=true&count_private=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lalicia&theme=tokyonight)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=brycenbb&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechaplin&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brycenbb&theme=tokyonight)
