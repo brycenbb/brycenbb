@@ -29,7 +29,7 @@ thoughts as I move through this challenge and School of Code:
 
 ## The Stats 📊
 
-![Profile views](https://gpvc.arturio.dev/lalicia)
+![Profile views](https://gpvc.arturio.dev/brycenbb)
 
 ![](https://github-readme-stats.vercel.app/api?username=brycenbb&theme=tokyonight&show_icons=true&count_private=true)
 
