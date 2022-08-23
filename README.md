@@ -27,3 +27,12 @@ thoughts as I move through this challenge and School of Code:
   
   - 🔭 I’m currently working on a React e-commerce app - An amazon clone! I plan on re-creating as much of the functionality of the original site as possible. This project will incorporate styled components, user authentication and authorization, and potentially refactored to incorporate NextJS too. 
 
+## The Stats 📊
+
+![Profile views](https://gpvc.arturio.dev/lalicia)
+
+![](https://github-readme-stats.vercel.app/api?username=lalicia&theme=tokyonight&show_icons=true&count_private=true)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lalicia&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechaplin&theme=tokyonight)
