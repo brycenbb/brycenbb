@@ -30,6 +30,7 @@ thoughts as I move through this challenge and School of Code:
 ## The Stats 📊
 
 ![Codewars](https://www.codewars.com/users/brycenbb/badges/large)
+
 ![Profile views](https://gpvc.arturio.dev/brycenbb)
 
 ![](https://github-readme-stats.vercel.app/api?username=brycenbb&theme=tokyonight&show_icons=true&count_private=true)
