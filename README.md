@@ -26,15 +26,3 @@ thoughts as I move through this challenge and School of Code:
   - ⚡ Fun fact: Prior to joining School of Code I was following The Odin Project curriculum to learn HTML, CSS, and Javascript. My last completed project of their curriculum was recreating BattleShip. My journey with School of Code has led me through working with REST APIs, creating backend servers and databases, popular libraries like React, and most recently frameworks with NextJS. 
   
   - 🔭 I’m currently working on a React e-commerce app - An amazon clone! I plan on re-creating as much of the functionality of the original site as possible. This project will incorporate styled components, user authentication and authorization, and potentially refactored to incorporate NextJS too. 
-
-## The Stats 📊
-
-![Codewars](https://www.codewars.com/users/brycenbb/badges/large)
-
-![Profile views](https://gpvc.arturio.dev/brycenbb)
-
-![](https://github-readme-stats.vercel.app/api?username=brycenbb&theme=tokyonight&show_icons=true&count_private=true)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=brycenbb&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brycenbb&theme=tokyonight)
